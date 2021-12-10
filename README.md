@@ -8,6 +8,7 @@ Once these employees are identified, HR can be more proactive in reaching out to
 They only want to deal with the data that is related to permanent employees.
 
 **Current Practice**
+
 Once an employee leaves, he or she is taken an interview with the name “exit interview” and shares reasons for leaving. The HR Department then tries and learns insights from the interview and makes changes accordingly.
 
 ***This suffers from the following problems:***
